@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa33c2d9-bd9b-438f-ba54-cf3d8fd633b4" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/2306430112-樊旭阳-王丽娟-旭日剧本杀推理俱乐部管理系统/4.软件/代码" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Javaweb\JavaProject\apache-maven-3.6.3" />
+        <option name="localRepository" value="D:\Javaweb\JavaProject\apache-maven-3.6.3\repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Javaweb\JavaProject\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wlrfb08L4apczZVyKSjqsXtvpq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootSchemaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/樊旭阳/Desktop/2306430112-樊旭阳-王丽娟-旭日剧本杀推理俱乐部管理系统/4.软件/代码&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringbootSchemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springbootx0gy2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.SpringbootSchemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fa33c2d9-bd9b-438f-ba54-cf3d8fd633b4" name="更改" comment="" />
+      <created>1746627105485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746627105485</updated>
+      <workItem from="1746627106606" duration="4076000" />
+      <workItem from="1746657091900" duration="1024000" />
+      <workItem from="1746658481006" duration="6687000" />
+      <workItem from="1746770044400" duration="49000" />
+      <workItem from="1746788307523" duration="2572000" />
+      <workItem from="1746852319148" duration="693000" />
+      <workItem from="1746864608536" duration="2996000" />
+      <workItem from="1746927284351" duration="5287000" />
+      <workItem from="1747015145363" duration="1492000" />
+      <workItem from="1747100433822" duration="1222000" />
+      <workItem from="1747115648689" duration="775000" />
+      <workItem from="1747188235784" duration="369000" />
+      <workItem from="1747295449262" duration="1250000" />
+      <workItem from="1747572554801" duration="681000" />
+      <workItem from="1747630378038" duration="618000" />
+      <workItem from="1747652103476" duration="620000" />
+      <workItem from="1747765281971" duration="702000" />
+      <workItem from="1748158104296" duration="2479000" />
+      <workItem from="1748203164297" duration="363000" />
+      <workItem from="1748788175113" duration="20000" />
+      <workItem from="1749741107107" duration="82000" />
+      <workItem from="1750252717664" duration="1586000" />
+      <workItem from="1750676562912" duration="1001000" />
+      <workItem from="1750677582561" duration="24000" />
+      <workItem from="1750677626896" duration="45000" />
+      <workItem from="1750677680299" duration="189000" />
+      <workItem from="1750677880213" duration="505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
